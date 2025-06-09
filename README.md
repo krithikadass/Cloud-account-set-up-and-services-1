@@ -1,8 +1,8 @@
 # EX NO: Cloud-account-set-up-and-services
 ~~~
-Name :M.PAVITHRA
+Name :M.Krithika Lakshmi
 
-Reg no: 212222100032
+Reg no: 212224230134
 ~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
